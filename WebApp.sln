@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{155D97D9-3AB3-4A3F-B138-650F47E6CAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Tests", "WebApp.Tests\WebApp.Tests.csproj", "{47BF29DA-07B6-4572-8078-959BCD977D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155D97D9-3AB3-4A3F-B138-650F47E6CAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155D97D9-3AB3-4A3F-B138-650F47E6CAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155D97D9-3AB3-4A3F-B138-650F47E6CAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155D97D9-3AB3-4A3F-B138-650F47E6CAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BF29DA-07B6-4572-8078-959BCD977D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BF29DA-07B6-4572-8078-959BCD977D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BF29DA-07B6-4572-8078-959BCD977D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BF29DA-07B6-4572-8078-959BCD977D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
